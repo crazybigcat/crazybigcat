@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crazybigcat
 - 👀 I’m interested in quantum intelligence.
-- 🌱 I’m currently learning quantum algorithms
+- 🌱 I’m currently learning topological quantum computing.
 - 💞️ I’m looking to collaborate on eigen problems of k-local Hamiltonian.
 - 📫 To reach me: sunzhengzhi16@mails.ucas.edu.cn
 
